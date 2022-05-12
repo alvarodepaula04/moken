@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\bin\Debug\RevisaoFor.exe.config
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\bin\Debug\RevisaoFor.exe
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\bin\Debug\RevisaoFor.pdb
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.Form1.resources
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.exe
+H:\Visual Studio 2022\Projects\POO1\RevisaoFor\RevisaoFor\obj\Debug\RevisaoFor.pdb
